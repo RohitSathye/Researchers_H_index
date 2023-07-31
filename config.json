@@ -1,0 +1,9 @@
+{
+    "apikey": "eb63c4af40423fb0d4f067df3025cda2",
+    "insttoken": "",
+    "baseapi_Hindices": "https://api.elsevier.com/analytics/scival/author/metrics",
+    "baseapi_AUID": "https://api.elsevier.com/content/search/author",
+    "Author_Name_file_location": "E:\\Library Strategic Research - Intelligence\\Scopus API - Testyard\\RootFolder-Take2\\Author-Name.csv",
+    "Output_Data_file_location": "E:\\Library Strategic Research - Intelligence\\Scopus API - Testyard\\RootFolder - Take1\\Author_Results.csv",
+    "Virginia_Tech_AFID": "60027090"
+}
